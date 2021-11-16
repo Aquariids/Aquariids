@@ -1,2 +1,2 @@
-- ![image alt](https://www.codewars.com/users/Aquarida/badges/large)
+- ![image alt](https://www.codewars.com/users/Aquarida/badges/small)
 
