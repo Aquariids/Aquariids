@@ -1,5 +1,6 @@
-   <pre>                                              <img src="https://www.codewars.com/users/Aquarida/badges/small"> </pre> 
 
+  ![](https://www.codewars.com/users/Aquarida/badges/small)
+   -----------------------------
 - Аниме :heart:
 - ~~JavaScript~~
 - ~~React~~
