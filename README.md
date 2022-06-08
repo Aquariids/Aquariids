@@ -1,5 +1,5 @@
 ![image alt](https://www.codewars.com/users/Aquarida/badges/small)               
-- Аниме
+- ~~Аниме~~
 - JavaScript
 - React
 - TypeScript
