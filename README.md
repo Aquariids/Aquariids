@@ -5,5 +5,6 @@
 - ~~JavaScript~~
 - ~~React~~
 - ~~TypeScript~~
---------------------
+<h3>О себе</h3>
+
 Люблю Red Hot Chili Peppers
