@@ -5,4 +5,4 @@
 - ~~JavaScript~~
 - ~~React~~
 - ~~TypeScript~~
-
+Люблю Red Hot Chili Peppers
