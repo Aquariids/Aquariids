@@ -9,7 +9,7 @@
 
 <details>
   <summary>
-    Github statistics...
+    Github Statistics...
   </summary>
 
   <p align = "center">
