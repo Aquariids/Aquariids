@@ -1,6 +1,6 @@
 
 ----------------------
-- Аниме :heart:
+- Anime :heart:
 - ~~JavaScript~~
 - ~~React~~
 - ~~TypeScript~~
