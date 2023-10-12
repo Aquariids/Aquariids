@@ -13,8 +13,13 @@
   </summary>
 
   <p align = "center">
-    <img  src="https://wakatime.com/share/@baeecb1a-d653-4f56-8f94-311f4c3da276/2c351a19-0b4d-4581-b62e-25e289d48632.svg" height="500px"/>
-    <img  src="https://wakatime.com/share/@baeecb1a-d653-4f56-8f94-311f4c3da276/4762b7e6-6502-4095-ac42-af36c5250975.svg" height="500px"/>
+    <p> Coding Activity over Last 7 Days:</p>
+    <img src="https://wakatime.com/share/@baeecb1a-d653-4f56-8f94-311f4c3da276/dc90c7a2-0483-4e05-abcf-f59a59ec42a8.svg" height="500px"/>
+    <p> Coding Activity over Last 30 Days:</p>
+    <img src="https://wakatime.com/share/@baeecb1a-d653-4f56-8f94-311f4c3da276/6beb3f52-3f3d-43e6-a9f7-ce5d5bcdd351.svg" height="500px"/>
+    <p> Coding Activity over all time(Since installing wakatime):</p>
+    <img  src="https://wakatime.com/share/@baeecb1a-d653-4f56-8f94-311f4c3da276/304bc0c5-8758-45ac-8b04-bd0636d70074.svg" height="500px"/>
+
   </p>
 </details>
 
