@@ -25,11 +25,11 @@
 
 <details>
   <summary>
-    Languege Statistics...
+    Language Statistics...
   </summary>
 
   <p align = "center">
-    <p> Langueges over all time(Since installing wakatime):</p>
+    <p> Languages over all time(Since installing wakatime):</p>
     <img src="https://wakatime.com/share/@baeecb1a-d653-4f56-8f94-311f4c3da276/5048b0a4-7413-489e-b116-18b49f600e59.svg" height="500px"/>
   </p>
 </details>
