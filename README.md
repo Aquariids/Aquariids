@@ -18,7 +18,7 @@
     <p> Coding Activity over Last 30 Days:</p>
     <img src="https://wakatime.com/share/@baeecb1a-d653-4f56-8f94-311f4c3da276/6beb3f52-3f3d-43e6-a9f7-ce5d5bcdd351.svg" height="500px"/>
     <p> Coding Activity over all time(Since installing wakatime):</p>
-    <img  src="https://wakatime.com/share/@baeecb1a-d653-4f56-8f94-311f4c3da276/304bc0c5-8758-45ac-8b04-bd0636d70074.svg" height="500px"/>
+    <img  src="https://wakatime.com/share/@baeecb1a-d653-4f56-8f94-311f4c3da276/fd826772-dc46-4b3d-a4b0-51d576ca5e99.svg" height="500px"/>
 
   </p>
 </details>
